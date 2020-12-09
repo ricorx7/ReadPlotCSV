@@ -1,0 +1,10 @@
+bokeh
+numpy
+pandas
+matplotlib
+holoviews
+panel
+streamlit
+plotly
+psycopg2
+mttkinter
